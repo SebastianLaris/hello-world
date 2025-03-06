@@ -1,5 +1,5 @@
-# hello-world
-This repository is for practicing the GitHub Flow
+### About Me
+
 👋 Hi, I'm Sebastian!
 I'm an AI enthusiast from Mexico City, Mexico, looking to start a new chapter in my career focused on Artificial Intelligence. My passion lies in AI consulting and developing AI-driven solutions tailored for small and medium-sized businesses.
 
